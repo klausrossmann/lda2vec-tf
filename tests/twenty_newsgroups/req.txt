@@ -1,0 +1,8 @@
+#python -m spacy download en_core_web_lg
+
+tensorflow(-gpu?)==1.13.1
+keras==2.2.4
+pandas==0.24.2
+spacy==2.1.4
+sklearn==0.0
+pyLDAvis==2.1.2

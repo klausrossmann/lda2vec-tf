@@ -1,0 +1,12 @@
+lda2vec.egg-info/
+*__pycache__/
+dist/
+
+tests/twenty_newsgroups/logdir*
+tests/twenty_newsgroups/data*
+install_instructions.txt
+
+lda2vec/Lda2vec_supervised.py
+lda2vec/Lda2vec_supervised_v2.py
+lda2vec/seq_utils.py
+tests/supervised_twenty_newsgroups/
